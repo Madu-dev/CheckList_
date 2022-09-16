@@ -1,8 +1,5 @@
 # CheckList_
 
-Eu sou maria e atualmente estou aprendendo programação web e mobile.
-
-## What's in this project?
 um site para que o usuário possa criar uma lista de tarefas, utilizando um array de objetos, que tem os campos: descricao e concluída.
 Cada elemento da lista de tarefas contêm:
 - um checkbox (indicando se a tarefa foi ou não concluída);
