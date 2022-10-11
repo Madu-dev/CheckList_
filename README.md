@@ -1,4 +1,4 @@
-# CheckList_
+# CheckList
 
 Um site para que o usuário possa criar uma lista de tarefas, utilizando um array de objetos, que tem os campos: descrição e concluída.
 Cada elemento da lista de tarefas contêm:
